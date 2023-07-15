@@ -1,0 +1,5 @@
+# Project exclude paths
+/API-Gateway/target/
+/Booking/target/
+/Eureka-server/target/
+/Payment/target/
